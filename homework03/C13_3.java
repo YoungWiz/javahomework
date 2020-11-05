@@ -1,7 +1,5 @@
 package homework03;
 
-import org.jetbrains.annotations.NotNull;
-
 import java.util.ArrayList;
 
 public class C13_3 {
